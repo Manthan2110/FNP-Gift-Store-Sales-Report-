@@ -86,7 +86,7 @@ One of the product descriptions literally says:
 
 ## 📎 Author
 
-Built with ❤️ by [Your Name]  
+Built with ❤️ by Manthan Jadav  
 Powered by curiosity, Excel formulas, and caffeine.
 
 ---
